@@ -1,0 +1,14 @@
+Eficiência do Bubblesort:
+
+Melhor caso: O(n)
+Pior caso: O(n²)
+
+Eficiência do Selectionsort:
+
+Melhor caso: O(n²)
+Pior caso: O(n²)
+
+Eficiência do Insertionsort:
+
+Melhor caso: O(n)
+Pior caso: O(n²)

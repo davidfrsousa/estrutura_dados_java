@@ -1,0 +1,11 @@
+POS FIXADO
+
+A - C - B - F - E - D - I - K - J - G
+
+PRE FIXADO
+
+G - D - B - A - C - E - F - J - I - K
+
+EM ORDEM
+
+A - B - C - D - E - F - G - I - J - K
